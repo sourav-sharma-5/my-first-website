@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Sourav's Thoughts</title>
+    <link>https://sourav-sharma-5.github.io/my-first-website/</link>
+    <description>Weekly reflections and thoughts by Sourav Sharma.</description>
+    <language>en-us</language>
+    <atom:link href="https://sourav-sharma-5.github.io/my-first-website/feed.xml"
+               rel="self" type="application/rss+xml"/>
+
+    <!-- === NEW ITEM TEMPLATE ===
+    Copy the <item> block below, paste it as the first <item>
+    in the channel, and fill it in.
+
+    <item>
+        <title>Entry Title</title>
+        <link>https://sourav-sharma-5.github.io/my-first-website/</link>
+        <description>A brief summary or the first paragraph.</description>
+        <pubDate>Day, DD Mon YYYY 00:00:00 +0000</pubDate>
+        <guid>https://sourav-sharma-5.github.io/my-first-website/#YYYY-MM-DD</guid>
+    </item>
+    === END TEMPLATE === -->
+
+    <item>
+        <title>Hello, World</title>
+        <link>https://sourav-sharma-5.github.io/my-first-website/</link>
+        <description>This is my first entry. I'm starting this blog to share my weekly thoughts and reflections.</description>
+        <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+        <guid>https://sourav-sharma-5.github.io/my-first-website/#2026-02-20</guid>
+    </item>
+</channel>
+</rss>
